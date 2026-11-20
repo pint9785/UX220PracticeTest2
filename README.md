@@ -5,6 +5,12 @@
 [Q2](q2.html)
 [Q3](q3.html)
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url><loc>https://example.com/q1.html</loc></url>
+	<url><loc>https://example.com/q2.html</loc></url>
+	<url><loc>https://pint9785.github.io/q3.html</loc></url>
+</urlset>
+
 The actual test will be 5 questions long. The actual test will be uploaded with the zip extension used for test 1. Each question will be worth 2 marks. This practice test is only 3 questions long.
 
 1. Add a contact phone number to the included form. Be sure to use the correct type for your input. 
