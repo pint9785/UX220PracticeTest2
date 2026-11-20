@@ -1,6 +1,10 @@
 # UX220PracticeTest2
 ## forms, css, custom elements
 
+[Q1](q1.html)
+[Q2](q2.html)
+[Q3](q3.html)
+
 The actual test will be 5 questions long. The actual test will be uploaded with the zip extension used for test 1. Each question will be worth 2 marks. This practice test is only 3 questions long.
 
 1. Add a contact phone number to the included form. Be sure to use the correct type for your input. 
